@@ -135,6 +135,7 @@ header svg path {
     padding-right: 16px;
 }
 
+.container.container-logo,
 .container.container-services {
     display: block;
 }
